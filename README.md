@@ -57,7 +57,8 @@ python forecasting_optimization.py
 - A graph comparing forecast vs MILP-optimized inventory.
 
 ## Example Visualization
-🚀 *(Add your output plot here once you run the model!)*
+![image](https://github.com/user-attachments/assets/c55e6489-4bff-44f7-8347-751708987958)
+
 
 ## Next Steps & Enhancements
 - 🔹 Extend the model to handle **multi-product forecasting & optimization**.
