@@ -69,7 +69,7 @@ python forecasting_optimization.py
 This project is for **non-commercial use only**, following Gurobi's free license restrictions.
 
 ## Author
-👤 **[Your Name]**  
+👤 **Vijayendra Vashisth**  
 📧 vijayendraaryan@gmail.com
 
 ---
